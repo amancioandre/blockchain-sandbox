@@ -1,0 +1,12 @@
+{
+  "name": "start_contract",
+  "version": "0.0.0",
+  "description": "Start Contract Test Project",
+  "main": "index.js",
+  "author": "Andre Amancio de Moraes <amancioandre@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "truffle": "^5.2.5"
+  }
+}
